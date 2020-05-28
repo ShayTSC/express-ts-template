@@ -1,2 +1,3 @@
-# express-ts-template
-An express.js typescript startup template
+# Express.js Typescript Template
+
+Barely an empty project. More plugins and stuff will be added.
